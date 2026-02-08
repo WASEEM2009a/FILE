@@ -15,7 +15,9 @@
 <table>
   <tr>
     <td><img src="https://github.com/WASEEM2009a/FILE/blob/main/v2.9.8.jpg" alt="Main Menu Image" width="450"></td>
-    <td><img src="https://github.com/WASEEM2009a/FILE/blob/main/dumping.jpg" alt="Dumping Image" width="450"></td>
+    <td><img src="https://github.com/WASEEM2009a/FILE/blob/main/Screenshot_%D9%A2%D9%A0%D9%A2%D9%A6%D9%A0%D9%A2%D9%A0%D9%A8_%D9%A0%D9%A5%D9%A0%D9%A3%D9%A2%D9%A7_Termux.jpg" alt="Dumping Image" width="450"></td>
+    <td><img src="https://github.com/WASEEM2009a/FILE/blob/main/Screenshot_%D9%A2%D9%A0%D9%A2%D9%A6%D9%A0%D9%A2%D9%A0%D9%A8_%D9%A0%D9%A4%D9%A3%D9%A8%D9%A4%D9%A6_Termux.jpg" alt="Main Menu Image" width="450"></td>
+    <td><img src="https://github.com/WASEEM2009a/FILE/blob/main/Screenshot_%D9%A2%D9%A0%D9%A2%D9%A6%D9%A0%D9%A2%D9%A0%D9%A8_%D9%A0%D9%A4%D9%A3%D9%A8%D9%A5%D9%A8_Termux.jpg" alt="Main Menu Image" width="450"></td>
   </tr>
 </table>
 <p align="center"><img src="https://raw.githubusercontent.com/SHAJON-404/SHAJON-404/main/assests/Rainbow.gif" width="100%"></p>
@@ -26,7 +28,7 @@
 ```
 cd $HOME
 rm -rf FILE
-git clone --depth=1 https://github.com/SHAJON-404/FILE.git
+git clone --depth=1 https://github.com/WASEEM2009a/FILE.git
 cd FILE
 chmod 777 FILE
 ./FILE
